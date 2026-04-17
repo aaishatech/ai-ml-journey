@@ -1,6 +1,5 @@
 # Python Basics: Conditionals, Loops, and Functions
 
----
 
 ## 📌 Conditionals
 
@@ -13,7 +12,6 @@
 * Break & Continue Questions
 * Nested Conditions (if inside if)
 
----
 
 ## 🔁 Loops
 
@@ -28,7 +26,6 @@
 * Print Even and Odd 
 * Sum of N natural numbers
 
----
 
 ## ⚙️ Functions
 
@@ -36,6 +33,5 @@
 * Factorial of N
 * Lambda Functions
 
----
 
 ## 🟢 Completed - All basic control flow covered
