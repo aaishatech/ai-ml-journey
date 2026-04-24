@@ -1,4 +1,4 @@
-# Python Basics
+# Python Basics -
 
 This folder contains the fundamental concepts of Python programming.
 
