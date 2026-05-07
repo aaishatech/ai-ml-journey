@@ -1,4 +1,4 @@
-# Anaconda & Jupyter Guide
+# Anaconda & Jupyter Guide-
 
 This folder contains basic concepts of Anaconda, Conda, Jupyter Notebook, and JupyterLab.
 
