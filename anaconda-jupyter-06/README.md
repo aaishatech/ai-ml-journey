@@ -5,11 +5,11 @@ This folder contains basic concepts of Anaconda, Conda, Jupyter Notebook, and Ju
 ## 📌 Topics Covered
 
 * What is Anaconda
-* Conda Enviroment
-* Juputer Notebook
+* Conda Environment
+* Jupyter Notebook
 * JupyterLab
 * Anaconda Navigator
-* Enviroment Management
+* Environment Management
 * Basic Commands
 
 ---
@@ -17,13 +17,13 @@ This folder contains basic concepts of Anaconda, Conda, Jupyter Notebook, and Ju
 ## 🛠 Tools Overview
 
 ### Anaconda
-Main Python distribution with libraries and tools.
+Main Python distribution with libraries and tools used for data analysis, data visualization, machine learning, and preprocessing.
 
 ### Conda
-Package and enviroment manager.
+Package and environment manager.
 
 ### Jupyter Notebook
-Interactive Notebook for writing code cell by cell.
+Interactive notebook for writing code cell by cell.
 
 ### JupyterLab
 Advanced workspace with tabs, terminals, and file browser.
