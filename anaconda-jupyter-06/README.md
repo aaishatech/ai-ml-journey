@@ -1,4 +1,4 @@
-# 🚀 Anaconda & Jupyter Guide
+# Anaconda & Jupyter Guide
 
 This folder contains basic concepts of Anaconda, Conda, Jupyter Notebook, and JupyterLab.
 
@@ -41,6 +41,7 @@ conda activate my_env
 jupyter notebook
 jupyter lab
 ```
+
 ---
 
 ## ✅ Status
